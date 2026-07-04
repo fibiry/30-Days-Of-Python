@@ -1,6 +1,6 @@
 # 30 Days of Python
 
-This repository contains my solutions and exercises from the **30 Days of Python** course.
+This repository contains my solutions and exercises from the **30 Days of Python** course from [Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python).
 
 ## About
 
@@ -16,7 +16,8 @@ I created this repository to:
 - ✅ Day 1
 - ✅ Day 2
 - ✅ Day 3
-- ⏳ Day 4...
+- ✅ Day 4
+- ⏳ Day 5...
 
 ## Technologies
 
