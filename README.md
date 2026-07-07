@@ -13,13 +13,14 @@ I created this repository to:
 
 ## Course Progress
 
-- ✅ Day 1
-- ✅ Day 2
-- ✅ Day 3
-- ✅ Day 4
-- ✅ Day 5
-- ✅ Day 6
-- ⏳ Day 7...
+- ✅ Day 1 - Variables
+- ✅ Day 2 - Operators
+- ✅ Day 3 - Booleans
+- ✅ Day 4 - Strings
+- ✅ Day 5 - Lists
+- ✅ Day 6 - Tuples
+- ✅ Day 7 - Sets
+- ⌛ Day8 ...
 
 ## Technologies
 
@@ -43,4 +44,4 @@ I created this repository to:
 
 **Fibiry**
 
-GitHub: https://github.com/fibiry
+GitHub: @fibiry
