@@ -21,7 +21,8 @@ I created this repository to:
 - ✅ Day 6 - Tuples
 - ✅ Day 7 - Sets
 - ✅ Day 8 - Dictionaries
-- ⌛ Day 9 - Dictionaries
+- ✅ Day 9 - Conditionals
+- ⌛ Day 10 -
 
 ## Technologies
 
