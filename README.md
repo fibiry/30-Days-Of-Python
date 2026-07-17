@@ -22,7 +22,8 @@ I created this repository to:
 - ✅ Day 7 - Sets
 - ✅ Day 8 - Dictionaries
 - ✅ Day 9 - Conditionals
-- ⌛ Day 10 -
+- ✅ Day 10 - Loops
+- ⌛ Day 11 -
 
 ## Technologies
 
